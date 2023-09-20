@@ -1,0 +1,16 @@
+Flask
+pymongo[srv]
+Flask-PyMongo
+bcrypt
+passlib
+gunicorn==20.0.4
+flask_mail
+openpyxl
+PyJWT
+uuid
+flask-cors
+kafka-python
+pandas
+joblib
+scikit-learn
+boto3
