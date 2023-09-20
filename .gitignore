@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+.idea
+rf_reg_new.pkl
+venv
+rf_reg_new1.pkl
